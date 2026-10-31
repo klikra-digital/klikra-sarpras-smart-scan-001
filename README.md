@@ -1,3 +1,0 @@
-# KLIKRA SARPRAS SMART SCAN 001
-
-Isolated preview repository for SARPRAS SMART SCAN 001.
