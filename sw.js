@@ -1,4 +1,4 @@
-const CACHE_NAME = "sarpras-smart-scan-001-pwa-v1";
+const CACHE_NAME = "sarpras-smart-scan-001-pwa-v2";
 const APP_FILES = [
   "./",
   "index.html",
